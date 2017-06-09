@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TVCTableViewController.h
 //  Table View Challenge
 //
 //  Created by Kovacs, Roland on 2017. 06. 09..
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TVCTableViewController : UITableViewController
 
 @end
-
